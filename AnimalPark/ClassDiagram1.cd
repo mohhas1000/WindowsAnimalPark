@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimalPark.AnimalFolder.Animal">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAwACAAEAAhAQBAAAEAAEAAAAIAAAADgA=</HashCode>
+      <FileName>AnimalFolder\Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalPark.Mammals.Dog">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABAAAAAAAABABBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammals\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.Mammals.Mammal">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Mammals\Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.Mammals.Cat">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAACAAAAAAAAABABBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammals\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.Birds.Bird">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Birds\Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.Birds.Eagle">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABAAAAAQAABABBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Birds\Eagle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.Birds.Pigeon">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAAAAAABABBAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Birds\Pigeon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.Mammals.Mammalfactory">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammals\Mammalfactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.Birds.Birdfactory">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Birds\Birdfactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.AnimalFolder.FoodSchedule">
+    <Position X="13" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAIAiAAAAAAAAEAAAAAABAQIAAAAAAQAQAAAAEAAAAA=</HashCode>
+      <FileName>Food\FoodSchedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.AnimalFolder.AnimalManager">
+    <Position X="5.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>AnimalFolder\AnimalManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalPark.Food.FoodItem">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Food\FoodItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AnimalPark.AnimalFolder.AnimalSpecies">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQCAAAAAIAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimalFolder\AnimalSpecies.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimalPark.AnimalFolder.CategoryType">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnimalFolder\CategoryType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimalPark.AnimalFolder.GenderType">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAABA=</HashCode>
+      <FileName>AnimalFolder\GenderType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimalPark.Mammal.MammalSpecies">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammals\MammalSpecies.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AnimalPark.Bird.BirdSpecies">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Birds\BirdSpecies.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

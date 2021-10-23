@@ -1,0 +1,11 @@
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.MainForm.resources
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\M.Hayzz\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.Food.FoodItemForm.resources
